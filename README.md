@@ -20,7 +20,7 @@ int main() {
 
 <hr/>
 
-<img height="180" align="right" alt="Night Coding" src="./images/night-coding.gif/"/>
+<!-- <img height="180" align="right" alt="Night Coding" src="./images/night-coding.gif/"/> -->
 
 
 - 💻 I'm mostly active within the Programming Community.
