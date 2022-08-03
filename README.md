@@ -33,7 +33,7 @@ int main() {
 <a href="https://linkedin.com/in/talha4t"><img src="https://img.shields.io/badge/-LinkedIn-0A64BF?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://facebook.com/talha4t"><img src="https://img.shields.io/badge/-Facebook-0166E1?style=flat&logo=Facebook&logoColor=white"/></a>
 <a target="_blank" href="https://codeforces.com/profile/taalha"><img src="https://img.shields.io/badge/-codeforces.com-808080?style=flat&logo=Codeforces&logoColor=white"/></a>
-<a target="_blank" href="https://www.stopstalk.com/user/profile/talha4t"><img src="https://img.shields.io/badge/-stopstalk.com-536DFE?style=flat&logo=StopStalk&logoColor=white"/></a>
+<a target="_blank" href="https://www.stopstalk.com/user/profile/talha"><img src="https://img.shields.io/badge/-stopstalk.com-536DFE?style=flat&logo=StopStalk&logoColor=white"/></a>
 
 </div>
 
