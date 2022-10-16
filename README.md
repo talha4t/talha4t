@@ -47,7 +47,15 @@ Programming Languages: <br> <br>
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c%2B%2B)&nbsp;
 
 
-<br>
+<br>  
+
+Miscellaneous: <br> <br>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;  
 
 ## 🗠 GitHub Analytics
 
@@ -58,4 +66,3 @@ Programming Languages: <br> <br>
 <div align="center">
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=talha4t&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </div>
-
