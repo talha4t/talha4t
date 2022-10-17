@@ -44,7 +44,8 @@ int main() {
 <br>
 
 Programming Languages: <br> <br>
-![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c%2B%2B)&nbsp;
+![C/C++](https://img.shields.io/badge/C/C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
+
 
 
 <br>  
