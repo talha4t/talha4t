@@ -39,7 +39,6 @@ int main() {
 
 <hr/>  
 
-![Profile views](https://gpvc.arturio.dev/talha4t)  
 
 ## Tech Skills
 
