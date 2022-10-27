@@ -37,7 +37,9 @@ int main() {
 
 </div>
 
-<hr/>
+<hr/>  
+
+![Profile views](https://gpvc.arturio.dev/ShahjalalShohag)  
 
 ## Tech Skills
 
