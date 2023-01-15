@@ -26,7 +26,6 @@ int main() {
 - 💻 I'm mostly active within the Programming Community.
 - 🐧 GNU/Linux Enthusiast, I mostly use Ubuntu based KDE Neon.
 - 📄 Please have a look at my [**Resume**](https://linkedin.com/in/talha4t) for more details about me. Keep in touch with `mahmudtalha80@gmail.com`
-- 😊 I'm open to feedback and suggestions!
 
 <div align="center">
 <a href="mailto:mahmudtalha80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
