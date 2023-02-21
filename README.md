@@ -47,11 +47,15 @@ Programming Languages: <br> <br>
 ![C/C++](https://img.shields.io/badge/C/C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-C%20Sharp-green)&nbsp;
 
+<br>
 
+### highlights
 
+-   Participating Programming Contest.
+-   Problem Solving (Solved 380+ problems) 
+-   Learning C/C++.
 
-
-<br>  
+<br>
 
 Miscellaneous: <br> <br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
