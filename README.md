@@ -69,10 +69,10 @@ Miscellaneous: <br> <br>
 
 ## 🗠 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talha4t&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talha4t&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,jupyter%20notebook,scss"/>
-</div>
-<div align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=talha4t&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
-</div>
+<a href="https://github.com/talha4t">
+  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talha4t&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=30" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=talha4t&show_icons=true&locale=en&layout=compact&theme=nord&line_height=30" />
+</a>
+<a href="https://github.com/talha4t">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talha4t&theme=nord&langs_count=10&hide=html,css,jupyter%20notebook,ejs,scss" />
+</a>
