@@ -54,7 +54,7 @@ Programming Languages: <br> <br>
 -   Problem Solving. (Solved 400+ problems) 
 -   Learning C/C++.
 -   Data Structure & Algorithms. (Basic)
--   STL. (Learning)
+-   STL.
 
 <br>
 
