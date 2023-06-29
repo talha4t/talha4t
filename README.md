@@ -52,7 +52,7 @@ Programming Languages: <br> <br>
 
 -   Participating Programming Contest.
 -   Problem Solving. (Solved 700+ problems) 
--   Learning C/C++.
+-   C/C++.
 -   Data Structure & Algorithms. (Basic)
 -   STL.
 
