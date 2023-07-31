@@ -23,8 +23,8 @@ int main() {
 <!-- <img height="180" align="right" alt="Night Coding" src="./images/night-coding.gif/"/> -->
 
 
-- 💻 I'm mostly active within the Programming Community.
-- 🐧 GNU/Linux Enthusiast, I mostly use Ubuntu based KDE Neon.
+- 💻 I do competitive programming.
+- 🐧 GNU/Linux Enthusiast, I mostly use Ubuntu-based KDE Neon.
 - 📄 Please have a look at my [**Resume**](https://linkedin.com/in/talha4t) for more details about me. Keep in touch with `mahmudtalha80@gmail.com`
 
 <div align="center">
