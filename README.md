@@ -29,7 +29,6 @@ int main() {
 
 <div align="center">
 <a href="mailto:mahmudtalha80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/talha4t"><img src="https://img.shields.io/badge/-LinkedIn-0A64BF?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://codeforces.com/profile/talha4t"><img src="https://img.shields.io/badge/-codeforces.com-808080?style=flat&logo=Codeforces&logoColor=white"/></a>
 <a target="_blank" href="https://www.stopstalk.com/user/profile/talha"><img src="https://img.shields.io/badge/-stopstalk.com-536DFE?style=flat&logo=StopStalk&logoColor=white"/></a>
 
