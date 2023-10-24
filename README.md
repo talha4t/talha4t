@@ -22,57 +22,56 @@ int main() {
 
 <!-- <img height="180" align="right" alt="Night Coding" src="./images/night-coding.gif/"/> -->
 
+### Social Links
 
-- 💻 I do competitive programming.
-- 🐧 GNU/Linux Enthusiast, I mostly use Ubuntu-based KDE Neon.
-- 📄 Please have a look at my [**Resume**](https://linkedin.com/in/talha4t) for more details about me. Keep in touch with `mahmudtalha80@gmail.com`
-
-<div align="center">
-<a href="mailto:mahmudtalha80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-<a target="_blank" href="https://codeforces.com/profile/talha4t"><img src="https://img.shields.io/badge/-codeforces.com-808080?style=flat&logo=Codeforces&logoColor=white"/></a>
-<a target="_blank" href="https://www.stopstalk.com/user/profile/talha"><img src="https://img.shields.io/badge/-stopstalk.com-536DFE?style=flat&logo=StopStalk&logoColor=white"/></a>
+<div align="left">
+<a href="mailto:mahmudtalha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/talha4t"><img src="https://img.shields.io/badge/-LinkedIn-0A64BF?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://facebook.com/talha4tofficial"><img src="https://img.shields.io/badge/-Facebook-0166E1?style=flat&logo=Facebook&logoColor=white"/></a>
+<a target="_blank" href="https://codeforces.com/profile/talha4t"><img src="https://img.shields.io/badge/-Codeforces-808080?style=flat&logo=Codeforces&logoColor=white"/></a>
+<a target="_blank" href="https://www.stopstalk.com/user/profile/talha"><img src="https://img.shields.io/badge/-Stopstalk-536DFE?style=flat&logo=StopStalk&logoColor=white"/></a>
 
 </div>
 
-<hr/>  
+<hr />
+
+### Quick highlights
+
+-   Solved [`750+ problems`] and Attended Programming Contests
+-   `3+` years of learning experience in Computer Science And Software Development
+-   Learning [`Data Structures and Algorithms`](https://github.com/talha4t/dsa) `C/C++`.
+-   ✍️ Use [`Visual Studio Code`] as a primary IDE for programming.
+
+<hr />
 
 
-## Tech Skills
+### Problem-Solving:
 
-<br>
+-   Codeforces : Solved 627 problems
+-   HackerRank : Solved 49 problems
+-   CodeChef : Solved 41 Problems
+-   AtCoder : Solved 34 Problems
+-   LightOJ : Solved 14 problems
+-   Spoj : Solved 8 Problems
+-   LeetCode : Solved 6 problems
+-   Timus : Solved 2 Problems
+-   HackerEarth : Solved 1 Problem
+-   UVa : Solved 1 problem
 
-Programming Languages: <br> <br>
-![C/C++](https://img.shields.io/badge/C/C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
+<hr />
 
+### Skills
 
-<br>
+-   Languages : C/C++.
+-   Tools : Linux (Ubuntu), Markdown, Git, Neovim, VS Code
 
-### highlights
-
--   Participating Programming Contest.
--   Problem Solving. (Solved 700+ problems) 
--   C/C++.
--   Data Structure & Algorithms. (Basic)
--   STL.
-
-<br>
-
-Miscellaneous: <br> <br>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;  
-
-<hr/>
-
-## 🗠 GitHub Analytics
+<hr />
 
 <a href="https://github.com/talha4t">
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talha4t&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=30" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=talha4t&show_icons=true&locale=en&layout=compact&theme=nord&line_height=30" />
+  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=p-nerd&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=30" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=p-nerd&show_icons=true&locale=en&layout=compact&theme=nord&line_height=30" />
 </a>
 <a href="https://github.com/talha4t">
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=talha4t&theme=nord&langs_count=10&hide=html,css,jupyter%20notebook,ejs,scss" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=p-nerd&theme=nord&langs_count=10&hide=css,jupyter%20notebook,ejs,scss" />
 </a>
+
