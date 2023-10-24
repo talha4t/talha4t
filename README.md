@@ -40,7 +40,7 @@ int main() {
 -   Solved [`750+ problems`] and Attended Programming Contests
 -   `3+` years of learning experience in Computer Science And Software Development
 -   Learning [`Data Structures and Algorithms`](https://github.com/talha4t/dsa) `C/C++`.
--   ✍️ Use [`Visual Studio Code`] as a primary IDE for programming.
+-   Use [`Visual Studio Code`] as a primary IDE for programming.
 
 <hr />
 
@@ -63,7 +63,7 @@ int main() {
 ### Skills
 
 -   Languages : C/C++.
--   Tools : Linux (Ubuntu), Markdown, Git, Neovim, VS Code
+-   Tools : Linux (Ubuntu), Markdown, Git, VS Code
 
 <hr />
 
