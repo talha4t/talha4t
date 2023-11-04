@@ -46,7 +46,7 @@ int main() {
 
 ### Problem-Solving:
 
--   Codeforces : Solved 627 problems
+-   Codeforces : Solved 632 problems
 -   HackerRank : Solved 49 problems
 -   CodeChef : Solved 41 Problems
 -   AtCoder : Solved 34 Problems
