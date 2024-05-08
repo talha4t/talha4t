@@ -61,7 +61,7 @@ int main() {
 
 ### Skills
 
--   Languages : C/C++.
+-   Languages : C/C++, Javascript.
 -   Tools : Linux (Ubuntu), Markdown, Git, VS Code
 
 <hr />
