@@ -62,6 +62,7 @@ int main() {
 ### Skills
 
 -   Languages : C/C++, Javascript.
+-   Backend : WordPress
 -   Tools : Linux (Ubuntu), Markdown, Git, VS Code
 
 <hr />
