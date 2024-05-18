@@ -50,9 +50,9 @@ int main() {
 -   HackerRank : Solved 49 problems
 -   CodeChef : Solved 41 Problems
 -   AtCoder : Solved 34 Problems
+-   LeetCode : Solve 27 Problems
 -   LightOJ : Solved 14 problems
 -   Spoj : Solved 8 Problems
--   LeetCode : Solved 6 problems
 -   Timus : Solved 2 Problems
 -   HackerEarth : Solved 1 Problem
 -   UVa : Solved 1 problem
