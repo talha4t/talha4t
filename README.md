@@ -62,6 +62,8 @@ int main() {
 ### Skills
 
 -   Languages : C/C++, Javascript.
+-   Backend : Node.js
+-   Databases: MongoDB, SQL
 -   Tools : Linux (Ubuntu), Markdown, Git, VS Code
 
 <hr />
