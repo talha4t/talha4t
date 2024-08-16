@@ -61,9 +61,9 @@ int main() {
 
 ### Skills
 
--   Languages : C/C++, Javascript.
--   Backend : Node.js
--   Databases: MongoDB, SQL
+-   Languages : C/C++, Javascript/TypeScript.
+-   Backend : Node.js(Nest.js, Express.js)
+-   Databases: MongoDB, PostgreSQL
 -   Tools : Linux (Ubuntu), Markdown, Git, VS Code
 
 <hr />
