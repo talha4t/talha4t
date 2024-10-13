@@ -37,7 +37,7 @@ int main() {
 
 ### Quick highlights
 
--   Solved [`750+ problems`] and Attended Programming Contests
+-   Solved [`850+ problems`] and Attended Programming Contests
 -   Learning [`Data Structures and Algorithms`](https://github.com/talha4t/dsa), `C/C++`.
 -   Use [`Visual Studio Code`] as a primary IDE for programming.
 
@@ -46,25 +46,26 @@ int main() {
 
 ### Problem-Solving:
 
--   Codeforces : Solved 668 problems
--   HackerRank : Solved 49 problems
--   CodeChef : Solved 41 Problems
--   AtCoder : Solved 34 Problems
--   LeetCode : Solve 27 Problems
--   LightOJ : Solved 14 problems
--   Spoj : Solved 8 Problems
--   Timus : Solved 2 Problems
+-   Codeforces  : Solved 668 problems
+-   HackerRank  : Solved 49 problems
+-   CodeChef    : Solved 41 Problems
+-   AtCoder     : Solved 34 Problems
+-   LeetCode    : Solve 27 Problems
+-   LightOJ     : Solved 14 problems
+-   Spoj        : Solved 8 Problems
+-   Timus       : Solved 2 Problems
 -   HackerEarth : Solved 1 Problem
--   UVa : Solved 1 problem
+-   UVa         : Solved 1 problem
 
 <hr />
 
 ### Skills
 
 -   Languages : C/C++, Javascript/TypeScript.
--   Backend : Node.js(Nest.js, Express.js)
--   Databases: MongoDB, PostgreSQL
--   Tools : Linux (Ubuntu), Markdown, Git, VS Code
+-   Frontend  : Tailwindcss, React.
+-   Backend   : Node.js(Nest.js, Express.js)
+-   Databases : MongoDB, PostgreSQL
+-   Tools     : Linux (Ubuntu), Markdown, Git, VS Code
 
 <hr />
 
