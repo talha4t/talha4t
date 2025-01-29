@@ -10,15 +10,6 @@ int main() {
 
 <hr/>
 
-<p align="center">
-                <br>
-                <em>
-                「 I’m Talha Mahamud, I am doing a diploma in engineering at Faridpur Polytechnic Institute and my major is in Computer Technology. I enjoy coding in C/C++. I also love problem-solving and I do it every day. C was the first programming language I taught myself.</b> 」
-                </em>
-                <br>
-</p>
-
-<hr/>
 
 <!-- <img height="180" align="right" alt="Night Coding" src="./images/night-coding.gif/"/> -->
 
