@@ -24,6 +24,7 @@ int main() {
 
 <hr />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=talha4t&type=png)](https://git.io/streak-stats)
 <a href="https://github.com/talha4t">
   <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talha4t&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=30" />
   <img align="left" src="https://streak-stats.demolab.com?user=talha4t" />
