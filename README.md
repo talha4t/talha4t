@@ -23,8 +23,6 @@ int main() {
 
 <hr />
 
-<img src="https://komarev.com/ghpvc/?username=talha4t&label=Profile%20views&color=0e75b6&style=flat" alt="Talha Mahmud" />
-
 <a href="https://github.com/talha4t">
   <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=talha4t&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=30" />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=talha4t&show_icons=true&locale=en&layout=compact&theme=nord&line_height=30" />
