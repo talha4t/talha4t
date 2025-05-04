@@ -1,11 +1,11 @@
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
+```c
+#include <stdio.h>
 
 int main() {
-    cout << "Assalamu Alaikum, World! This is Talha.\n";
+    printf("Assalamu Alaikum, World! This is Talha.\n");
     return 0;
 }
+
 ```
 
 <hr/>
